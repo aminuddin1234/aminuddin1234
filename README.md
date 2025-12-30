@@ -24,8 +24,6 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/adobe%20lightroom-%2331A8FF.svg?style=for-the-badge&logo=adobe%20lightroom&logoColor=white)
 
-### GitHub Stats:
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aminuddin1234&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminuddin1234&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+### 📊 My Activity
+![GitHub Stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=flat-square&color=blue)
+![GitHub Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=flat-square&color=red)
