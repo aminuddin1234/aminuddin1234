@@ -26,7 +26,10 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/adobe%20lightroom-%2331A8FF.svg?style=for-the-badge&logo=adobe%20lightroom&logoColor=white)
 
-### 📊 My Activity
+### 📊 Tracker
 ![Visitor Count](https://komarev.com/ghpvc/?username=aminuddin1234&color=blue&style=flat-square&label=PROFILE+VIEWS)
 ![GitHub Stars](https://img.shields.io/github/stars/aminuddin1234?style=flat-square&color=blue)
 ![GitHub Followers](https://img.shields.io/github/followers/aminuddin1234?style=flat-square&color=red)
+
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aminuddin1234&theme=react-dark)
