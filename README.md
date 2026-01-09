@@ -1,7 +1,7 @@
 # Muhammad Aminuddin
 
 ### Portfolio Data Analyst:
-[![Portfolio](https://img.shields.io/badge/Household_income-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aminuddin1234/Artificial_inteligent_and_machine_learning_course/tree/main/portfolio/Household%20Income%20by%20State%20%26%20Percentile%20at%20Malaysia%20%20in%202019%2C%202022%20and%202024)
+[![Notion](https://img.shields.io/badge/Aminuddin_Portfolio-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://bit.ly/3MWRKlJ)
 
 ### Socials:
 * Lets connect on LinkedIn
